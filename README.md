@@ -1,4 +1,4 @@
-# Pyhton-string-to-list
+# Pyhton string to list
 ## Description
 
 Takes a user input and outputs it as a list
